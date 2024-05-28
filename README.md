@@ -1,4 +1,4 @@
-# Learning management system
+# Internship management system (USINTER.US)
 
 University's Learning managment system web application built with Spring and Angular.
 
@@ -27,3 +27,4 @@ Authentication and authorization are realized with JWT, including access and ref
 - Angular Material
 - TailwindCSS
 - Docker
+- PHP MyAdmin
