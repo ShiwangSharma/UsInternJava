@@ -1,4 +1,4 @@
-# Internship management system (USINTER.US)
+# Internship management system (USINTERN.US)
 
 University's Learning managment system web application built with Spring and Angular.
 
